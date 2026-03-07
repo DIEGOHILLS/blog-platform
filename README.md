@@ -103,9 +103,7 @@ npm run dev
 
 * User profile endpoint + page
 * Image upload support
-* Pagination
 * Search
-* Role-based access control (Admin)
 
 ---
 
